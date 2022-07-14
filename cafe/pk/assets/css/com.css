@@ -272,3 +272,7 @@
         font-style: italic;
         text-shadow: #000000 0px 1px 0px;
       }
+      .borda-vsl{
+        border: 8px solid rgb(243, 48, 48);
+        box-shadow: 0 0 1em rgb(243, 48, 48);
+      }
